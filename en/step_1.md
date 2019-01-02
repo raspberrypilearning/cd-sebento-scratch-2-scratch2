@@ -1,58 +1,45 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-2).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you will make an interactive water usage calculator to make people think about how much water they use. You'll also write code that draws a chart to compare the amount of water used in various different activities.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+Here is an example of the project you will make:
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/218035688/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
 
 --- collapse ---
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ The Pen tool
++ Using and updating variables in loops
++ Using `repeat until` loops
++ Getting input values with Ask blocks
++ Using multiple lists with properties related by index
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: What you will need
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+### Hardware
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
++ A computer capable of running Scratch 2.0
+
+### Software
+
+You’re going to need **Scratch 2.0**, so download and install it on your computer by going to [dojo.soy/downloadscratch2](http://dojo.soy/downloadscratch2)
 
 --- /collapse ---
